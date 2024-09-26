@@ -544,7 +544,7 @@ body {
     display: none;
     opacity: 0;
 }
-.button {
+.button-play {
     background-color: #552619;
     height: 70px;
     width: 70px;
@@ -557,12 +557,12 @@ body {
     border-radius: 50%;
     color: #fbeae7;
 }
-.button i {
+.button-play i {
     font-size: 24px;
     color: inherit;
     transition: 0.25s;
 }
-.button:hover {
+.button-play:hover {
     background-color: #D4B8B1;
     color: #53331F;
     transition: 0.25s;
