@@ -77,7 +77,7 @@ function start() {
             poster.style.display = "none";
             start.classList.remove("disabled");
         });
-    }, 1000);
+    }, 3000);
 
     loopy.addEventListener("click", function() {
         loopy.classList.add("disabled");
